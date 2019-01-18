@@ -1,0 +1,2 @@
+Slime blocks make you bounce.
+Use them to navigate through the level.

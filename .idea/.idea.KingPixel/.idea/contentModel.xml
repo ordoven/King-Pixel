@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tadas\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tadas\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_KingPixel.950813655.00" t="ExcludeRecursive" />
+    <e p="C:\Users\tadas\Work\KingPixel" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scenes" t="Include">
+          <e p="LevelSelect" t="Include">
+            <e p="LevelSelect.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ActivateTextAtLine.cs" t="Include" />
+          <e p="AnimationDownUp.cs" t="Include" />
+          <e p="Camera" t="Include">
+            <e p="CameraMovement.cs" t="Include" />
+          </e>
+          <e p="ChestBehaviour.cs" t="Include" />
+          <e p="DartTrap.cs" t="Include" />
+          <e p="Destroy.cs" t="Include" />
+          <e p="DontDestroyOnLoad.cs" t="Include" />
+          <e p="DropDownTextBox" t="Include">
+            <e p="DropDownBox.cs" t="Include" />
+            <e p="SnakeMovement.cs" t="Include" />
+            <e p="TextBoxManager.cs" t="Include" />
+          </e>
+          <e p="EnemyBasedScripts" t="Include">
+            <e p="EnemyCombatSystem.cs" t="Include" />
+            <e p="EnemyController.cs" t="Include" />
+            <e p="EnemyHealthHandle.cs" t="Include" />
+          </e>
+          <e p="GameSound.cs" t="Include" />
+          <e p="Gate" t="Include">
+            <e p="Gate.cs" t="Include" />
+            <e p="KeyPickUp.cs" t="Include" />
+          </e>
+          <e p="MainMenuAnimationScripts" t="Include">
+            <e p="TitleAnimation.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="BackgroundMusicManagerBehaviour.cs" t="Include" />
+            <e p="GameManagerBehaviour.cs" t="Include" />
+            <e p="InventorySystem.cs" t="Include" />
+          </e>
+          <e p="Melee.cs" t="Include" />
+          <e p="NPC.cs" t="Include" />
+          <e p="PlayerBasedScripts" t="Include">
+            <e p="BetterJump.cs" t="Include" />
+            <e p="MeleeHandle.cs" t="Include" />
+            <e p="PlayerHealthHandle.cs" t="Include" />
+            <e p="WeaponHandle.cs" t="Include" />
+          </e>
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PopUpObject.cs" t="Include" />
+          <e p="PortalS.cs" t="Include" />
+          <e p="PrefabSpawner.cs" t="Include" />
+          <e p="ReSkinAnimator.cs" t="Include" />
+          <e p="Slime.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="CrownCounterUI.cs" t="Include" />
+            <e p="EnemyKillStatScript.cs" t="Include" />
+            <e p="Fading.cs" t="Include" />
+            <e p="GameOver.cs" t="Include" />
+            <e p="GameOverStatElementLoader.cs" t="Include" />
+            <e p="ItemNode.cs" t="Include" />
+            <e p="MainMenu" t="Include">
+              <e p="AssignMaterial.cs" t="Include" />
+              <e p="GenericWindow.cs" t="Include" />
+              <e p="MainMenu.cs" t="Include" />
+              <e p="TheButton.cs" t="Include" />
+              <e p="UIObjectOptimize.cs" t="Include" />
+            </e>
+            <e p="MainMenuManager.cs" t="Include" />
+            <e p="Options" t="Include">
+              <e p="OptionsManager.cs" t="Include" />
+              <e p="SliderBehaviour.cs" t="Include" />
+            </e>
+            <e p="UIHealth.cs" t="Include" />
+            <e p="UIInventoryDisplay.cs" t="Include" />
+            <e p="UIItemGetPanel.cs" t="Include" />
+            <e p="WeaponUsedStatScript.cs" t="Include" />
+          </e>
+          <e p="Weapon.cs" t="Include" />
+        </e>
+        <e p="TextFiles" t="Include">
+          <e p="level01.txt" t="Include" />
+          <e p="level02.txt" t="Include" />
+          <e p="level03.txt" t="Include" />
+        </e>
+      </e>
+      <e p="KingPixel.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

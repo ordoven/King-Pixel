@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ade39a4111d662d439169ba96fc9ed08
+timeCreated: 1483103557
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yoster Island
+  fontNames:
+  - Yoster Island
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

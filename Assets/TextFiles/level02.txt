@@ -1,0 +1,2 @@
+Keys are used to open doorways.
+Every key and doorway has its' own color.
